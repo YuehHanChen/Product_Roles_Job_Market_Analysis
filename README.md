@@ -25,5 +25,8 @@ This dataset is from h1bdata.info, where has the h1b disclosure data from the Un
 - Average Waiting days: 114 days.
 - Product Analyst/Manager H1B issue amount and approval rate all have been  increasing over the 
 past few years.
+- H1B for Product Managers have increased by 90% from 2015 to 2019. H1B for Product Analysts have increased by 60% from 2015 to 2019. 
+- From 2015 to 2019, the approval rate of Product Manager increased by nearly 4%, and although there was a drop in 2016 for product analyst, the overall approval rate of Product Analyst increased by nearly 3%.
+
 
 
